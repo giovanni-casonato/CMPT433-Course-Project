@@ -1,0 +1,3 @@
+This project explores the performance of two neural network architectures, Multilayer Perceptron (MLP) and Multilayer Multivariate Network (MLMVN), on the task of time series prediction. The repository contains MATLAB code demonstrating the implementation and training of both networks using provided Energy Consumption time series data. The comparison includes training, testing, and evaluation metrics such as Root Mean Square Error (RMSE) for each model.
+
+Main Fiding: Both networks predicted the energy consumption. MLMVN was more accurate but required more neurons in the first and second layers. 
